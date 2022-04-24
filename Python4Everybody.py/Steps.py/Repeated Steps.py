@@ -8,3 +8,8 @@ while x > 2:
     print(x)
     x = x - 4
     print("Done")
+g = 10
+while g > 0:
+    print(g)
+    g = g -2
+    print("Burstoff")
