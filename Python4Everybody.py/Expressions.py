@@ -5,13 +5,17 @@ w = 16
 f = (18 - w)
 print(f)
 xx = (12 * 3)
-d = (xx - 6)
-print(d)
-x = 24
-y = 2
-_j = (x / y)
+c = (xx - 6)
+print(c)
+d = 24
+k = 2
+_j = (d / k)
 print(_j)
 dr = 16 % 5
 print(dr)
 xc = 3 ** 3
 print(xc)
+x = 54
+k = "Ayomide"
+print(x)
+print(k)
